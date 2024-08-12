@@ -1,6 +1,6 @@
 # User Management Application
 
-This is a real-time user management application built with a modern stack. It uses a combination of technologies to handle user management, real-time updates, and logging. Below is an overview of the technologies and features included in this application.
+This is a real-time user management application built with a MERN stack. It uses a combination of technologies to handle user management, real-time updates, and logging. Below is an overview of the technologies and features included in this application.
 
 ## Technologies Used
 
